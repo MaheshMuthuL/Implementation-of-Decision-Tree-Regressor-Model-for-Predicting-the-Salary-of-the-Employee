@@ -23,9 +23,6 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 /*
 Developed by: L.Mahesh Muthu
 RegisterNumber: 212222040093 
-*/
-```
-/*
 
 import pandas as pd
 data=pd.read_csv("/content/Salary.csv")
@@ -63,6 +60,9 @@ r2
 dt.predict([[5,6]])
   
 */
+
+```
+
 
 ## Output:
 
